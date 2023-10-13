@@ -1,9 +1,3 @@
-<h3 align="center">
-        <samp> Hey There!, I am
-                <b><a target="blank" href="https://twitter.com/isthisadityaj">Aditya Jain</a></b>
-        </samp>
-</h3>
-
 <p align="center"> 
   <samp>
     <br>
@@ -30,4 +24,4 @@
 
 <br/>
 
-## Best Projects Pinned Below 👇 -
+## Best Projects 👇
