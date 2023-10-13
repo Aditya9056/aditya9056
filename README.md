@@ -1,16 +1,36 @@
-### Hi there 👋
+<h3 align="center">
+        <samp> Hey There!, I am
+                <b><a target="_blank" href="https://twitter.com/isthisadityaj">Aditya Jain</a></b>
+        </samp>
+</h3>
 
-<!--
-**Aditya9056/aditya9056** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+  <samp>
 
-Here are some ideas to get you started:
+    <br>
+    「 Full Stack Dev here, previously a dev for 1M+ users application | Solo-scaled a web app for 40K users/month. 」
+    <br>
+    <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  </samp>
+</p>
+
+<p align="center">
+ <a href="https://aditya9056.github.io/" target="blank">
+  <img src="https://img.shields.io/badge/Website-FF8C00?style=for-the-badge&logo=medium&logoColor=white" alt="adityaPortfolio" />
+ </a>
+ <a href="https://www.linkedin.com/in/iadityajain/" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="adityaLinkedin"/>
+ </a>
+ <a href="https://dev.to/adityaj" target="blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="adityaDevTo" />
+ </a>
+ <a href="https://twitter.com/isthisadityaj" target="blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="adityaTwitter" />
+ </a>
+</p>
+<br />
+
+<br/>
+
+## Best Projects -
