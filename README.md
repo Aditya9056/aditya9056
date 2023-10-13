@@ -1,17 +1,14 @@
 <h3 align="center">
         <samp> Hey There!, I am
-                <b><a target="_blank" href="https://twitter.com/isthisadityaj">Aditya Jain</a></b>
+                <b><a target="blank" href="https://twitter.com/isthisadityaj">Aditya Jain</a></b>
         </samp>
 </h3>
 
 <p align="center"> 
   <samp>
-
     <br>
-    「 Full Stack Dev here, previously a dev for 1M+ users application | Solo-scaled a web app for 40K users/month. 」
+    「 Full Stack Developer 」
     <br>
-    <br>
-
   </samp>
 </p>
 
@@ -33,4 +30,4 @@
 
 <br/>
 
-## Best Projects -
+## Best Projects Pinned Below 👇 -
