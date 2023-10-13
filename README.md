@@ -1,3 +1,7 @@
+<a href="https://komarev.com/ghpvc/?username=aditya9056">
+  <img align="right" src="https://komarev.com/ghpvc/?username=aditya9056&color=orange&style=for-the-badge&label=Visitors" alt="Profile visitor" />
+</a>
+
 <p align="center"> 
   <samp>
     <br>
