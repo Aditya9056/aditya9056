@@ -1,5 +1,5 @@
 <a href="https://komarev.com/ghpvc/?username=aditya9056">
-  <img align="right" src="https://komarev.com/ghpvc/?username=aditya9056&color=orange&style=for-the-badge&label=Visitors" alt="Profile visitor" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=aditya9056&color=orange&style=for-the-badge&label=Visitors&base=33487" alt="Profile visitor" />
 </a>
 
 <br>
