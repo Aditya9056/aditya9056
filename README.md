@@ -111,9 +111,8 @@ public class AdityaJain {
 
 | Project | Stack | What it does |
 | --- | --- | --- |
-| [**Education ERP**](https://github.com/Aditya9056/ERP-for-education-institutes) | PHP, Laravel, MySQL | Full ERP for education institutes with payments, admin panel, student management, ID card & result generation |
-| [**WP Simple Form**](https://github.com/Aditya9056/wp-simple-form) | PHP, WordPress, JS | Reusable WordPress plugin with AJAX forms, honeypot spam protection, and shortcode support |
 | [**NLP Language Detection**](https://github.com/Aditya9056/nlp-language-detection-web-app) | Python, FastAPI, NLP | Language detection web app backed by a custom-trained model and API layer |
+| [**WP Simple Form**](https://github.com/Aditya9056/wp-simple-form) | PHP, WordPress, JS | Reusable WordPress plugin with AJAX forms, honeypot spam protection, and shortcode support |
 | [**CodeIgniter Blog**](https://github.com/Aditya9056/Codeigniter-Blog) | PHP, CodeIgniter, MySQL | Full-featured blog with auth, comments, pagination, and responsive design |
 | [**Portfolio Site**](https://github.com/Aditya9056/aditya9056.github.io) | HTML, CSS, JS | Personal site showcasing selected public work and current backend direction |
 
