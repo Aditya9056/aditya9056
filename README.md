@@ -107,17 +107,6 @@ public class AdityaJain {
 
 <br>
 
-## What I've Built
-
-| Project | Stack | What it does |
-| --- | --- | --- |
-| [**NLP Language Detection**](https://github.com/Aditya9056/nlp-language-detection-web-app) | Python, FastAPI, NLP | Language detection web app backed by a custom-trained model and API layer |
-| [**WP Simple Form**](https://github.com/Aditya9056/wp-simple-form) | PHP, WordPress, JS | Reusable WordPress plugin with AJAX forms, honeypot spam protection, and shortcode support |
-| [**CodeIgniter Blog**](https://github.com/Aditya9056/Codeigniter-Blog) | PHP, CodeIgniter, MySQL | Full-featured blog with auth, comments, pagination, and responsive design |
-| [**Portfolio Site**](https://github.com/Aditya9056/aditya9056.github.io) | HTML, CSS, JS | Personal site showcasing selected public work and current backend direction |
-
-<br>
-
 ## GitHub Stats
 
 <p align="center">
